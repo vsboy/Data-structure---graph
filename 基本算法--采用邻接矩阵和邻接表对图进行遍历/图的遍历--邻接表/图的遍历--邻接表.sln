@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的遍历--邻接表", "图的遍历--邻接表\图的遍历--邻接表.vcxproj", "{410D7049-C860-496B-A8FC-6548C8EE387B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410D7049-C860-496B-A8FC-6548C8EE387B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{410D7049-C860-496B-A8FC-6548C8EE387B}.Debug|Win32.Build.0 = Debug|Win32
+		{410D7049-C860-496B-A8FC-6548C8EE387B}.Release|Win32.ActiveCfg = Release|Win32
+		{410D7049-C860-496B-A8FC-6548C8EE387B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
